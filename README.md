@@ -4,9 +4,8 @@
 # Hello World!, I'm Monir, a Front-End Web Developer 👋🏼:
 
 - 👋 Hi, I’m @DeveloperMonirBD
-- 👨🏼‍💻 working as a web developer since 2023
 - 👀 I’m interested in Learning new Things
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on the Web Development Project
 - 📫 How to reach me [webpage](https://monirdeveloper.vercel.app)
 
