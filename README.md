@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m @DeveloperMonirBD
 - 👀 I’m interested in Learning new Things
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on the Web Development Project
 - 📫 How to reach me [webpage](https://monirulislam05.vercel.app)
 
