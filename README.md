@@ -1,24 +1,65 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
+# 👋 Hello World! I'm Monir
 
-# Hello World!, I'm Monir, a Front-End Web Developer 👋🏼:
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4CF78C&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer+%F0%9F%9A%80;Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Building+Modern+%26+Scalable+Web+Applications;Turning+Ideas+Into+Real-World+Solutions" alt="Typing SVG" />
+  </a>
+</p>
 
-- 👋 Hi, I’m @DeveloperMonirBD
-- 👀 I’m interested in Learning new Things
-- 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on the Web Development Project
-- 📫 How to reach me [webpage](https://monirulislam05.vercel.app)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CF78CE6&width=435&lines=I+am+a+Web-developer..!+%26;MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Full-Stack+Web+Apps;Turning+Ideas+Into+Functional+UI.)](https://git.io/typing-svg) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CF78CE6&width=435&lines=I+am+a+Web-developer..!+%26;.)](https://git.io/typing-svg)
+## 💫 About Me
 
-# 💫 About Me:
-<p>Driven by a profound passion for coding and an innate talent for creative design, I have built a robust foundation in Web Development over the past year. This journey has been both challenging and incredibly fulfilling, pushing me to hone my skills and embrace new learning opportunities. As I continue to expand my expertise in web development, I remain steadfast in my belief that success is a result of persistent hard work and unwavering dedication. Outside of my professional pursuits, I find joy in playing football and immersing myself in the world of video games, balancing my technical prowess with recreational interests.</p>
-<hr/>
+I'm a **MERN Stack Developer** passionate about building clean, responsive, and user-focused web
+applications. I enjoy turning ideas into practical solutions while continuously learning and
+improving my development skills.
+
+- 🔭 **Currently focusing on:** Next.js, TypeScript & Full-Stack Development
+- ⚡ **Core Stack:** MongoDB, Express.js, React, Next.js, Node.js, TypeScript & Tailwind CSS
+- 🗄️ **Currently Learning:** PostgreSQL & Prisma
+- 💡 **Mindset:** Learn continuously, build consistently, and improve every day
+- 🤝 **Open to:** Web development projects, collaboration & open-source opportunities
+- 🎮 **Beyond Coding:** Football ⚽ & Gaming 🎮
+
+---
+
+## 🔥 Current Activities
+
+- 🌱 Exploring **Next.js & TypeScript** for modern full-stack applications
+- 🏗️ Building real-world projects with the **MERN Stack**
+- 💻 Strengthening backend development with **Node.js, Express.js & MongoDB**
+- 🗄️ Learning **PostgreSQL & Prisma** for modern database-driven applications
+- 📚 Improving knowledge of **authentication, REST APIs, advanced React patterns & scalable
+  architecture**
+
+---
+
+## 💡 What I Enjoy
+
+- 🎨 Turning Figma designs into pixel-perfect interfaces
+- 🛠️ Exploring new full-stack tools and technologies
+- 🧩 Solving real problems through clean, maintainable code
+- 🤝 Collaborating with teams to ship quality applications
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://monirulislam05.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-4CF78C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md.moniruzzaman.monir.372241) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/monirdeveloper) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/monirdeveloper) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Monir_Developer) 
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md.moniruzzaman.monir.372241)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/monirdeveloper)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/monirdeveloper)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Monir_Developer)
 
 # 💻 Tech Stack:
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -45,7 +86,8 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
@@ -70,7 +112,8 @@
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
@@ -83,17 +126,21 @@
 </picture>
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=DeveloperMonirBD&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DeveloperMonirBD&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperMonirBD&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=DeveloperMonirBD&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=DeveloperMonirBD&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
