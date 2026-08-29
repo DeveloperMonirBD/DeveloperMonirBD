@@ -1,22 +1,21 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# 👋 Hello World! I'm Monir
+## 👋 Hello World! I'm Monir
 
 - 👨‍💻 **MERN Stack Developer** passionate about building scalable web applications
 - 🚀 **Currently exploring:** Next.js, TypeScript, PostgreSQL & Prisma
 - 💡 **Interested in:** Modern full-stack development, clean code & system design
 - 🤝 **Open to:** Collaboration, open-source contributions & exciting projects
-- 🌐 **Portfolio:** [monirulislam05.vercel.app](https://monirulislam05.vercel.app)
+- ☕ **Fueled by:** Coffee, curiosity, and a relentless pursuit of clean code
+
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CF78CE6&width=435&lines=I+am+a+Web-developer..!+%26;MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Full-Stack+Web+Apps;Turning+Ideas+Into+Functional+UI.)](https://git.io/typing-svg) -->
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4CF78C&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer+%F0%9F%9A%80;Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Building+Modern+%26+Scalable+Web+Applications;Turning+Ideas+Into+Real-World+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4CF78C&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Full-Stack+Web+Apps;Building+Modern+%26+Scalable+Web+Applications;Turning+Ideas+Into+Real-World+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
----
-
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CF78CE6&width=435&lines=I+am+a+Web-developer..!+%26;MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Full-Stack+Web+Apps;Turning+Ideas+Into+Functional+UI.)](https://git.io/typing-svg) -->
 
 ## 💫 About Me
 
@@ -31,7 +30,6 @@ improving my development skills.
 - 🤝 **Open to:** Web development projects, collaboration & open-source opportunities
 - 🎮 **Beyond Coding:** Football ⚽ & Gaming 🎮
 
----
 
 ## 🔥 What I'm Up To
 
@@ -42,7 +40,6 @@ improving my development skills.
 - 📚 Improving knowledge of **authentication, REST APIs, advanced React patterns & scalable
   application architecture**
 
----
 
 ## 💡 What I Enjoy
 
@@ -51,7 +48,6 @@ improving my development skills.
 - 🧩 Solving real-world problems through **clean and maintainable code**
 - 🤝 Collaborating with teams to **build and ship quality applications**
 
----
 
 ## 🌐 Connect With Me
 
@@ -73,7 +69,6 @@ improving my development skills.
   </a>
 </p>
 
----
 
 ## 💻 Tech Stack
 
@@ -108,6 +103,7 @@ improving my development skills.
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <!-- <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" /> -->
 </p>
 
 ### ☁️ Hosting & Deployment
@@ -117,7 +113,7 @@ improving my development skills.
   <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+   <!-- <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /> -->
 </p>
 
 ### 🛠️ Tools & Others
@@ -130,6 +126,7 @@ improving my development skills.
   <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" /> -->
 </p>
 
 ---
@@ -139,8 +136,6 @@ improving my development skills.
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p> -->
-
-## 🐍 Contribution Graph
 
 <p align="center">
   <picture>
@@ -154,7 +149,7 @@ improving my development skills.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=DeveloperMonirBD&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=DeveloperMonirBD&theme=radical&hide_border=false&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
     width="100%"
   />
@@ -162,7 +157,7 @@ improving my development skills.
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperMonirBD&theme=dark&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperMonirBD&theme=radical&hide_border=false"
     alt="GitHub Streak"
     width="100%"
   />
@@ -170,24 +165,22 @@ improving my development skills.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperMonirBD&layout=compact&theme=dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperMonirBD&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
     alt="Top Languages"
   />
 </p>
 
----
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=DeveloperMonirBD&theme=darkhub&no-frame=true&no-bg=true&margin-w=4"
+    src="https://github-profile-trophy.vercel.app/?username=DeveloperMonirBD&theme=radical&no-frame=false&no-bg=true&margin-w=4"
     alt="GitHub Trophies"
     width="100%"
   />
 </p>
 
----
 
 ### ✍️ Random Dev Quote
 
@@ -195,22 +188,13 @@ improving my development skills.
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"  width="100%" />
 </p>
 
----
-
 ### 🔝 Top Contributed Repo
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=DeveloperMonirBD&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
 
----
-
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=DeveloperMonirBD&icon=0&color=0" alt="Profile Views" />
 </p>
 
----
-
-<p align="center">
-  <b>💻 Learn • Build • Improve • Repeat 🚀</b>
-</p>
