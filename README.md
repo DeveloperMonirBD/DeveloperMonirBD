@@ -8,46 +8,35 @@
 - 🤝 **Open to:** Collaboration, open-source contributions & exciting projects
 - ☕ **Fueled by:** Coffee, curiosity, and a relentless pursuit of clean code
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CF78CE6&width=435&lines=I+am+a+Web-developer..!+%26;MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Full-Stack+Web+Apps;Turning+Ideas+Into+Functional+UI.)](https://git.io/typing-svg) -->
-
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4CF78C&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Full-Stack+Web+Apps;Building+Modern+%26+Scalable+Web+Applications;Turning+Ideas+Into+Real-World+Solutions" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4CF78C&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Building+Modern+%26+Scalable+Web+Applications;Crafting+Clean+%26+User-Focused+Experiences;Turning+Ideas+Into+Real-World+Solutions"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
+---
 
 ## 💫 About Me
 
-I'm a **MERN Stack Developer** passionate about building clean, responsive, and user-focused web
-applications. I enjoy turning ideas into practical solutions while continuously learning and
-improving my development skills.
+I'm a **MERN Stack Developer** passionate about building modern, responsive, and user-focused web
+applications. I enjoy transforming ideas into practical digital experiences with clean,
+maintainable, and reusable code.
 
-- 🔭 **Currently focusing on:** Next.js, TypeScript & Full-Stack Development
-- ⚡ **Core Stack:** MongoDB, Express.js, React, Next.js, Node.js, TypeScript & Tailwind CSS
-- 🗄️ **Currently Learning:** PostgreSQL & Prisma
-- 💡 **Mindset:** Learn continuously, build consistently, and improve every day
-- 🤝 **Open to:** Web development projects, collaboration & open-source opportunities
-- 🎮 **Beyond Coding:** Football ⚽ & Gaming 🎮
+My development journey is driven by **continuous learning, problem-solving, and hands-on project
+building**. I’m currently expanding my full-stack expertise with **Next.js, TypeScript, PostgreSQL,
+and Prisma**, while strengthening my knowledge of backend development, authentication, REST APIs,
+and scalable application architecture.
 
+I also enjoy turning **Figma designs into pixel-perfect interfaces** and building applications that
+are not only visually appealing but also functional, intuitive, and user-friendly.
 
-## 🔥 What I'm Up To
+Outside of coding, I enjoy **football ⚽ and gaming 🎮**.
 
-- 🌱 Exploring **Next.js & TypeScript** for modern full-stack applications
-- 🏗️ Building real-world projects with the **MERN Stack**
-- 💻 Strengthening backend development with **Node.js, Express.js & MongoDB**
-- 🗄️ Learning **PostgreSQL & Prisma** for modern database-driven applications
-- 📚 Improving knowledge of **authentication, REST APIs, advanced React patterns & scalable
-  application architecture**
-
-
-## 💡 What I Enjoy
-
-- 🎨 Turning Figma designs into **pixel-perfect interfaces**
-- 🛠️ Exploring **new full-stack tools and technologies**
-- 🧩 Solving real-world problems through **clean and maintainable code**
-- 🤝 Collaborating with teams to **build and ship quality applications**
-
+**💡 My Approach:** Learn continuously • Build consistently • Solve real problems • Improve every
+day 🚀
 
 ## 🌐 Connect With Me
 
@@ -68,7 +57,6 @@ improving my development skills.
     <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
-
 
 ## 💻 Tech Stack
 
@@ -147,16 +135,20 @@ improving my development skills.
 
 # 📊 GitHub Stats:
 
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DeveloperMonirBD&color=ff69b4&style=flat-square&label=Profile+Views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DeveloperMonirBD&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=DeveloperMonirBD&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=DeveloperMonirBD&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DeveloperMonirBD&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 ## 🏆 GitHub Trophies
@@ -168,19 +160,11 @@ improving my development skills.
 ### ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" alt="Dev Quote" />
 </p>
 
 ### 🔝 Top Contributed Repo
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=DeveloperMonirBD&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=DeveloperMonirBD&icon=0&color=13" alt="Profile Views" />
-  </a>
 </p>
