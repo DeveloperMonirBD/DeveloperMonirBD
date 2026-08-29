@@ -1,6 +1,6 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-## 👋 Hello World! I'm Monir
+# 👋 Hello World! I'm Monir
 
 - 👨‍💻 **MERN Stack Developer** passionate about building scalable web applications
 - 🚀 **Currently exploring:** Next.js, TypeScript, PostgreSQL & Prisma
@@ -33,10 +33,10 @@ and scalable application architecture.
 I also enjoy turning **Figma designs into pixel-perfect interfaces** and building applications that
 are not only visually appealing but also functional, intuitive, and user-friendly.
 
-Outside of coding, I enjoy **football ⚽ and gaming 🎮**.
-
 **💡 My Approach:** Learn continuously • Build consistently • Solve real problems • Improve every
 day 🚀
+
+---
 
 ## 🌐 Connect With Me
 
@@ -57,6 +57,8 @@ day 🚀
     <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
+
+---
 
 ## 💻 Tech Stack
 
@@ -133,6 +135,8 @@ day 🚀
   </picture>
 </p>
 
+---
+
 # 📊 GitHub Stats:
 
 <p align="center">
@@ -151,17 +155,23 @@ day 🚀
   <img src="https://streak-stats.demolab.com/?user=DeveloperMonirBD&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DeveloperMonirBD&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
+---
+
 ### ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
+
+---
 
 ### 🔝 Top Contributed Repo
 
