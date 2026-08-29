@@ -147,7 +147,7 @@ improving my development skills.
 
 # 📊 GitHub Stats:
 
-<p align="right">
+<p align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=DeveloperMonirBD&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
 </p>
 
@@ -155,7 +155,7 @@ improving my development skills.
   <img src="https://streak-stats.demolab.com/?user=DeveloperMonirBD&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<p align="right">
+<p align="left">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DeveloperMonirBD&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
