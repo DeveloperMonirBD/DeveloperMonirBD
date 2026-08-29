@@ -16,6 +16,7 @@
   </a>
 </p>
 
+
 ## 💫 About Me
 
 I'm a **MERN Stack Developer** passionate about building clean, responsive, and user-focused web
@@ -29,6 +30,7 @@ improving my development skills.
 - 🤝 **Open to:** Web development projects, collaboration & open-source opportunities
 - 🎮 **Beyond Coding:** Football ⚽ & Gaming 🎮
 
+
 ## 🔥 What I'm Up To
 
 - 🌱 Exploring **Next.js & TypeScript** for modern full-stack applications
@@ -38,12 +40,14 @@ improving my development skills.
 - 📚 Improving knowledge of **authentication, REST APIs, advanced React patterns & scalable
   application architecture**
 
+
 ## 💡 What I Enjoy
 
 - 🎨 Turning Figma designs into **pixel-perfect interfaces**
 - 🛠️ Exploring **new full-stack tools and technologies**
 - 🧩 Solving real-world problems through **clean and maintainable code**
 - 🤝 Collaborating with teams to **build and ship quality applications**
+
 
 ## 🌐 Connect With Me
 
@@ -64,6 +68,7 @@ improving my development skills.
     <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
+
 
 ## 💻 Tech Stack
 
@@ -142,21 +147,16 @@ improving my development skills.
 
 # 📊 GitHub Stats:
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.shion.dev/api?username=DeveloperMonirBD&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://streak-stats.demolab.com/?user=DeveloperMonirBD&theme=radical&hide_border=false" alt="GitHub Streak" width="100%" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DeveloperMonirBD&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=DeveloperMonirBD&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="right">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DeveloperMonirBD&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 ## 🏆 GitHub Trophies
