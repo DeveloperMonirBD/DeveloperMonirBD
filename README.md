@@ -1,9 +1,9 @@
-<img src="banner_github.jpg" alt="GitHub Banner" width="100%" />
+<img src="banner_github.jpg" alt="Monir — Full Stack Developer Banner" width="100%" />
 
 # 👋 Hello World! I'm Monir
 
-- 👨‍💻 **MERN Stack Developer** passionate about building scalable web applications
-- 🚀 **Currently exploring:** Next.js, TypeScript, PostgreSQL & Prisma
+- 👨‍💻 **Full Stack Developer** passionate about building scalable web applications
+- 🚀 **Currently exploring:** Docker, Next.js, TypeScript, PostgreSQL & Prisma
 - 💡 **Interested in:** Modern full-stack development, clean code & system design
 - 🤝 **Open to:** Collaboration, open-source contributions & exciting projects
 - ☕ **Fueled by:** Coffee, curiosity, and a relentless pursuit of clean code
@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4CF78C&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Building+Modern+%26+Scalable+Web+Applications;Crafting+Clean+%26+User-Focused+Experiences;Turning+Ideas+Into+Real-World+Solutions"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4CF78C&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;Frontend+%26+MERN+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Building+Modern+%26+Scalable+Web+Applications;Crafting+Clean+%26+User-Focused+Experiences;Turning+Ideas+Into+Real-World+Solutions"
       alt="Typing SVG"
     />
   </a>
@@ -21,7 +21,7 @@
 
 ## 💫 About Me
 
-I'm a **MERN Stack Developer** passionate about building modern, responsive, and user-focused web
+I'm a **Full Stack Developer** passionate about building modern, responsive, and user-focused web
 applications. I enjoy transforming ideas into practical digital experiences with clean,
 maintainable, and reusable code.
 
@@ -137,7 +137,7 @@ day 🚀
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DeveloperMonirBD&color=ff69b4&style=flat-square&label=Profile+Views" />
@@ -165,16 +165,8 @@ day 🚀
 
 ---
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
-
----
-
-### 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=DeveloperMonirBD&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
